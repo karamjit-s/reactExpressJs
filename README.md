@@ -10,7 +10,7 @@ Home page of my react app where we can see the records of student
 
 
 
-In the below screenshot, we can see the add student form with avrious textboxes which will store the details in the mysql database.
+In the below screenshot, we can see the add student form with various textboxes which will store the details in the MongoDB database.
 
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/0aeb29aa-1e3f-46f1-a6df-56703d0998e9)
@@ -19,7 +19,7 @@ In the below screenshot, we can see the add student form with avrious textboxes 
 
 
 
-In the below screenshot, values can be inserted to the following colums for adding the record for one student in mysql database. 
+In the below screenshot, values can be inserted to the following colums for adding the record for one student in MongoDB database. 
 
 
 
