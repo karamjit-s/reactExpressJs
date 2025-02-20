@@ -1,4 +1,4 @@
-This is a basic Crud app developed in reactJs and expressJs.
+This is a basic Crud app developed in reactJs and expressJs. I'll  make more changes to this website to explore the features of mern stack. 
 
 Home page of my react app where we can see the records of student
 
