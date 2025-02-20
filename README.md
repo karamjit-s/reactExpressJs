@@ -5,7 +5,7 @@ Home page of my react app where we can see the records of student
 ![Screenshot (4)](https://github.com/user-attachments/assets/32176a39-e9db-42ad-a50d-1fc343051d86)
 
 
-In the below screenshot, we can see the form of students details which will store the details in the mysql database.
+In the below screenshot, we can see the add student form with avrious textboxes which will store the details in the mysql database.
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/0aeb29aa-1e3f-46f1-a6df-56703d0998e9)
 
